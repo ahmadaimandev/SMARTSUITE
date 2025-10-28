@@ -279,7 +279,7 @@
                 Platform Digital untuk Kecemerlangan Organisasi
             </p>
 
-            <a href="login.html" class="login-btn">
+            <a href="auth/login.php" class="login-btn">
                 Log Masuk
                 <i class="fas fa-arrow-right"></i>
             </a>
